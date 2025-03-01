@@ -1,0 +1,140 @@
+Preprocess Pocketgen input
+Preprocessing done!
+Transfering PocketGen results
+Transfer started
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+File Format unknown can't parse it
+Starting Pocket comparison
+Number of proteins: 204
+ESM embeddings are about to be generated...
+Load pretrained ESM model and alphabet
+... done!
+Transferred model to GPU
+Read /shared/ifbstor1/projects/2428_meet_eu/matteo/epocs/sequences/all_group_0.fasta with 204 sequences
+Processing 1 of 5 batches (53 sequences)
+Processing 2 of 5 batches (51 sequences)
+Processing 3 of 5 batches (51 sequences)
+Processing 4 of 5 batches (47 sequences)
+Processing 5 of 5 batches (2 sequences)
+ESM embeddings are generated.
+Pocket extraction is starting...
+Pairwise distance calculation is starting...
+Distance matrix is about to be generated for 204 pockets.
+Distance matrix is generated.
+Distance matrix is saved.
+Clusters for threshold 1.0 is about to be generated.
+Clusters for threshold 1.2 is about to be generated.
+Clusters for threshold 1.4 is about to be generated.
+Clusters for threshold 1.6 is about to be generated.
+Clusters for threshold 1.8 is about to be generated.
+Clusters for threshold 2.0 is about to be generated.
+Clusters for threshold 2.2 is about to be generated.
+Clusters for threshold 2.4 is about to be generated.
+Clusters for threshold 2.6 is about to be generated.
+Clusters for threshold 2.8 is about to be generated.
+Clusters for threshold 3.0 is about to be generated.
+Clusters are generated.
+Post-processing epocs
+204
+(204, 204)
+done
