@@ -1,0 +1,17 @@
+Alterations : 
+- Moved protein_ligand.py from utils to data_separation to avoid error throw because utils is not recognized as a package
+- Do not create the environment targetdiff : same as pocketgen but without yaml installation file
+- two points forgotten in extract_pockets.py and required to avoid SyntaxError throw
+- Placed the files data.py and pl.py in preparation_data in order to avoid importation errors as utils is not recognized
+
+
+Notes importantes sur les input:
+
+Pour CrossDocked:
+- extract_pocket.py prend deux arguments en compte :
+	* [--path /PATH/TO/UNPACKED_TAR] [--dest /PATH/TO/OUTPUT_DIR]
+	* --path being the path to the unpacked tar archive and --dest being the destination
+
+- split_pl_dataset.py prend en compte plusieurs arguments mais les plus importants sont les mêmes :
+	* [--path /PATH/TO/POCKET_OUTPUT_DIR] [--dest /PATH/TO/OUTPUT_DIR]
+	* --path being the path to where the previous command was outputed and --dest being the destination for the split result

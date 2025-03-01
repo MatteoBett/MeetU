@@ -1,0 +1,13 @@
+conda install modeller
+conda install openeye::openeye-toolkits
+
+pip install autodocktools-py3
+pip install pyg-lib
+pip install pykeops
+pip install torch-cluster
+pip install torch-scatter
+pip install torch-sparse
+pip install torch-spline-conv
+pip install torchdrug
+pip install torchmetrics
+pip install ProDy
