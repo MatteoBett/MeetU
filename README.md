@@ -22,3 +22,5 @@ Organization of the folders respect to the graphical abstract:
 - For data and results analysis refer to `notebooks`.
 - For the pipeline scripts refer to `pipeline` which contains the bash scripts pipelines for the docking and pocket based ligand ranking.
 - The folder `transition` contains intermediary scripts necessary for the streamlining of the pipeline.
+
+Detailed methods and results can be found in the file `MeetU_report.pdf`.
